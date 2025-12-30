@@ -58,7 +58,7 @@ Please keep the list **alphabetical**.
 
 Static company lists are useful, but for **live job listings**, check out these platforms:
 
-- **KickstartRemote** — https://kickstartremote.com  
+- [KickstartRemote](https://kickstartremote.com)
   *Curated, vetted remote jobs with a strong focus on global eligibility and real remote roles.*
 
 - Remote Rocketship  
